@@ -3,7 +3,7 @@ layout: default
 title: Yash Bhalgat
 ---
 
-# Welcome to my webpage!
+# Welcome!
 
 
 I am a Senior year undergraduate at [Indian Institute of Technology - Bombay](https://www.iitb.ac.in), Mumbai, India. I am pursuing a major (with honors) in [Electrical Engineering](https://www.ee.iitb.ac.in) and a minor in [Computer Science](https://www.cse.iitb.ac.in).
