@@ -1,0 +1,18 @@
+name: Xiang Ji's Webpage
+url: http://example.org
+description: A place for some footprints
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: false
+highlighter: rouge
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+safe: true
+
+google_analytics: UA-69626748-1
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
