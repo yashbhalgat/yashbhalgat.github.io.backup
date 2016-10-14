@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Xiang Ji  汲翔
+title: Yash Bhalgat
 ---
 
 # Welcome!
 
 
-I am a PhD student in Bio-informatics at North Carolina State University. 
+I am a Senior year undergraduate at [Indian Institute of Technology - Bombay](https://www.iitb.ac.in), Mumbai, India. I am pursuing a major (with honors) in [Electrical Engineering](https://www.ee.iitb.ac.in) and a minor in [Computer Science](https://www.cse.iitb.ac.in).
 
-Before coming to Bio-informatics I earned my BS degrees in Physics and Economics from Peking University, China. My advisor was [Dr. Jiasen Zhang](http://www.phy.pku.edu.cn/~zhangjs/index.html).
+I am very enthusiastic about solving problems on a combination of Computer Vision, Machine Learning, Pattern Recognition. I am also interested in Parallel Computing, Astronomy and Biometrics.
 
-I earned my MS degree in Material Science and Engineering here at NC State. My thesis advisor was [Dr. John Muth](http://www.ece.ncsu.edu/people/muth). 
+Currently, I am pursuing my Undergraduate Thesis under the guidance of [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) titled "Orientation field Estimation in Latent fingerprints using Scattering Convolution Networks".
 
-I am currently working under [Dr. Jeff Thorne](http://statgen.ncsu.edu/thorne/)'s direction. 
 
