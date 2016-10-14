@@ -2,9 +2,9 @@
 layout: default
 title: Research Projects
 ---
-## PhD Research
+## Under Construction
 
-**_Modeling Gene Conversion_** project, NC State University, 2014
+<!-- **_Modeling Gene Conversion_** project, NC State University, 2014
 
 Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
 
@@ -76,3 +76,4 @@ XY intensity plane simulated | intensity experimentally detected
 *All of the files in this page are copyrighted . They are provided for your convenience, yet you may download them only if you are entitled to do so by your arrangements with various publishers.
 
 **Copyright statement copied from Dr. Jiasen Zhang's webpage.
+ -->

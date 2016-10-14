@@ -55,21 +55,23 @@ EE | 210 | <code>&nbsp;&nbsp;&nbsp;</code>Signal and Systems
 
 EE | 225 | <code>&nbsp;&nbsp;&nbsp;</code>Network Theory
 :------------- | :------------- |:-------------
-ST | 522 | <code>&nbsp;&nbsp;&nbsp;</code>Statistical Theory II
-ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics II
-ST | 746 | <code>&nbsp;&nbsp;&nbsp;</code>Introduction To Stochastic Processes
+EE | 717 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Computing for Electrical Engineers
+HS | 101 | <code>&nbsp;&nbsp;&nbsp;</code>Economics
+MA | 205 | <code>&nbsp;&nbsp;&nbsp;</code>Complex Analysis
 
 <br>
 
 # 2014 *Spring*
 
-ST | 512 | <code>&nbsp;&nbsp;&nbsp;</code>Experimental Statistics For Biological Sciences II
+MA | 108 | <code>&nbsp;&nbsp;&nbsp;</code>Differential Equations
 :------------- | :------------- |:-------------
-ST | 521 | <code>&nbsp;&nbsp;&nbsp;</code>Statistical Theory I
-ST | 590 | <code>&nbsp;&nbsp;&nbsp;</code>Bio-informatics I
+BB | 101 | <code>&nbsp;&nbsp;&nbsp;</code>Biology
+MA | 106 | <code>&nbsp;&nbsp;&nbsp;</code>Linear Algebra
 
 <br>
 
 # 2013 *Fall*
 
-MSE | 770 | <code>&nbsp;&nbsp;&nbsp;</code>Defects, Diffusion and Ion Implantation In Semiconductors
+PH | 107 | <code>&nbsp;&nbsp;&nbsp;</code>Quantum Mechanics
+MA | 105 | <code>&nbsp;&nbsp;&nbsp;</code>Calculus
+CS | 101 | <code>&nbsp;&nbsp;&nbsp;</code>Computer Programming and Utilisation
