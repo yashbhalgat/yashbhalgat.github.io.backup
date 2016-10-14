@@ -10,6 +10,6 @@ I am a Senior year undergraduate at [Indian Institute of Technology - Bombay](ht
 
 I am very enthusiastic about solving problems on a combination of Computer Vision, Machine Learning, Pattern Recognition. I am also interested in Parallel Computing, Astronomy and Biometrics.
 
-Currently, I am pursuing my Undergraduate Thesis under the guidance of [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) titled "Orientation field Estimation in Latent fingerprints using Scattering Convolution Networks".
+Currently, I am pursuing my Undergraduate Thesis under the guidance of [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) titled "**Orientation field Estimation in Latent fingerprints using Scattering Convolution Networks**".
 
 
