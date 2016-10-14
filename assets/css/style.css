@@ -104,7 +104,9 @@ h3 {
 .img-middle { vertical-align: middle; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
-
+.img-circle {
+    border-radius: 50%;
+}
 
 
 /*** Structure ***/
