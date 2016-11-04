@@ -17,4 +17,4 @@ Currently, I am pursuing my Undergraduate Thesis under the guidance of [Prof. Vi
 
 ## Publications
 
-[1] Yash Bhalgat, Mandar Kulkarni, Shirish Karande, and Sachin Lodha, "Stamp processing with examplar features", 12th IAPR Workshop on Document Analysis Systems 2016 [arXiv](https://arxiv.org/abs/1609.05001)
+[1] Yash Bhalgat, Mandar Kulkarni, Shirish Karande, and Sachin Lodha, "Stamp processing with examplar features", 12th IAPR Workshop on Document Analysis Systems 2016 [[arXiv](https://arxiv.org/abs/1609.05001)]
