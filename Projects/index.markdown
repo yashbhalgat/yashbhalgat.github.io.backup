@@ -4,34 +4,28 @@ title: Research Projects
 ---
 ## Under Construction
 
-<!-- **_Modeling Gene Conversion_** project, NC State University, 2014
+**Undergraduate Thesis**
+**_Latent Fingerprint Enhancement via Scattering Wavelet Networks_**
 
-Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
+Advisor: [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre), Indian Institute of Technology, Bombay
 
-This is my main project. We are trying to develop phylogenetic model counting amount of inter-locus gene conversion (IGC) in the evolution of multi-gene families. Our current program works for smallest multi-gene family (only 2 members). Our [paper](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw114.short?rss=1) is published in MBE (Molecular Biology and Evolution). 
-
-Here is the [github repository](https://github.com/xji3/JGT_MBE_2016).
-
-
-**_Solvent Accessibility_** project, NC State University, 2013
-
-Advisor: Dr. Jeff Thorne, Bioinformatics Research Center, NC State University
-
-This was a 'left-over' project that I helped finished. I extracted solvent accessibility information from protein coding genes in several species (human, mouse and Ecoli). Another senior PhD student built probabilistic model based on these data. Details of this project can be found in this [paper](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/Publication/Roles%20of%20Solvent%20Accessibility%20and%20Gene%20Expression%20in%20Modeling%20Protein%20Sequence%20Evolution.pdf) which I co-authored.
-
-=======================================================
+Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis under the guidance of Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. Inspired by previous approaches using patch dictionary-based enhancement, I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem. So far, we have worked with touchless fingerprints and a manuscript to the Pattern Recognition Letters journal is in preparation. In stage-II, I intend to delve deeper into the integration of Scattering Wavelets to this approach. 
 
 
-## Master Thesis
+**_Joint multi-modal representations for e-commerce catalog search by visual attributes_**, IBM Research
 
+Guide: Dr. Vikas Raykar and Amrita Saha
 
-**_Laser Interference Lithography_** project, NC State University, 2012
+Used [CorrNets](http://www.mitpressjournals.org/doi/pdf/10.1162/NECO_a_00801), an autoencoder based architecture, to learn the joint representation for both the image and caption such that the two reps are embedded in the same space maximizing their correlation. Showed that these joint multi-modal representations are a viable alternative for searching large fashion catalogues without manual tagging. Presented as a poster in the seminar at IBM Research, Bangalore, India.
 
-Advisor: Dr. John Muth, EE Department, NC State University
+**_Object recognition in document images using semi-supervised Deep Learning_**
+Tata Research Design and Development Center, Pune, India
 
-The goal was to develop a fabrication process using the mask-free laser interference lithography to easily introduce periodic pattern onto devices. We wanted to use it for gas sensor fabrication to increase the surface to volumn ratio which primarily determines gas-sensor's sensitivity. Details can be found in my [ugly-written thesis](https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/27914ae129b83c237d03d68fec002646d1163f69/Publication/Laser%20Interference%20Lithography%20for%20Fabrication%20of%20Gas%20Sensors.pdf).
+Mentors and co-authors: Mandar Kulkarni, Dr. Shirish Karande, Dr. Sachin Lodha 
 
-Here are some pictures for a taste of what I did. 
+With specific recognition to stamp detection - segmentation, proposed a shape-based approach and a ranking algorithm for learning the 1st layer filters of our architecture. We also proposed a scheme to rank and choose the subset. The approach performs better than many competing approaches: K-SVD, Gabor filters and other deep learning techniques. Stamp detection accuracy of 94% and segmentation IoU (Intersection over Union) of 74.81%. [ [arXiv] ](https://arxiv.org/abs/1609.05001)
+
+<!-- Here are some pictures for a taste of what I did. 
 
 <img src ="https://github.com/xiang-ji-ncsu/xiang-ji-ncsu.github.io/raw/master/images/Work%20in%20cleanroom.png">
 
