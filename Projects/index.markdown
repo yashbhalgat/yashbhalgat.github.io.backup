@@ -2,15 +2,14 @@
 layout: default
 title: Research Projects
 ---
-## Under Construction
-
-**Undergraduate Thesis**
+## Undergraduate Thesis
 **_Latent Fingerprint Enhancement via Scattering Wavelet Networks_**
 
 Advisor: [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre), Indian Institute of Technology, Bombay
 
 Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis under the guidance of Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. Inspired by previous approaches using patch dictionary-based enhancement, I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem. So far, we have worked with touchless fingerprints and a manuscript to the Pattern Recognition Letters journal is in preparation. In stage-II, I intend to delve deeper into the integration of Scattering Wavelets to this approach. 
 
+========================================================================================================
 
 **_Joint multi-modal representations for e-commerce catalog search by visual attributes_**, IBM Research
 
