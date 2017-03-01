@@ -7,18 +7,18 @@ title: Research Projects
 
 Advisor: [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre), Indian Institute of Technology, Bombay
 
-Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis under the guidance of Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. Inspired by previous approaches using patch dictionary-based enhancement, I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem. So far, we have worked with touchless fingerprints and a manuscript to the Pattern Recognition Letters journal is in preparation. In stage-II, I intend to delve deeper into the integration of Scattering Wavelets to this approach. 
+Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis with Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem. So far, we have worked with touchless fingerprints and a manuscript to the Pattern Recognition Letters journal is in preparation.
 
 _Updates_: In the stage II of this project, we have achieved an accuracy of 92.57% on the five-class fingerprint classification problem (and 96% on four-class) and a manuscript is in writing for the Pattern Recognition Letters Journal.
 
 ## Joint multi-modal representations for e-commerce catalog search by visual attributes, 
-IBM Research
+IBM Research <br>
 Guide: Dr. Vikas Raykar and Amrita Saha
 
 Used [CorrNets](http://www.mitpressjournals.org/doi/pdf/10.1162/NECO_a_00801), an autoencoder based architecture, to learn the joint representation for both the image and caption such that the two reps are embedded in the same space maximizing their correlation. Showed that these joint multi-modal representations are a viable alternative for searching large fashion catalogues without manual tagging. Presented as a poster in the seminar at IBM Research, Bangalore, India.
 
 ## Object recognition in document images using semi-supervised Deep Learning
-Tata Research Design and Development Center, Pune, India
+Tata Research Design and Development Center, Pune, India <br>
 Mentors and co-authors: Mandar Kulkarni, Dr. Shirish Karande, Dr. Sachin Lodha 
 
 With specific recognition to stamp detection - segmentation, proposed a shape-based approach and a ranking algorithm for learning the 1st layer filters of our architecture. We also proposed a scheme to rank and choose the subset. The approach performs better than many competing approaches: K-SVD, Gabor filters and other deep learning techniques. Stamp detection accuracy of 94% and segmentation IoU (Intersection over Union) of 74.81%. [ [arXiv] ](https://arxiv.org/abs/1609.05001)
