@@ -3,6 +3,18 @@ layout: default
 title: Courses Taken
 ---
 
+# **Relevant Courses**
+
+# 2017 *Spring*
+
+CS | 736 | <code>&nbsp;&nbsp;&nbsp;</code>Algorithms in Medical Image Processing
+:------------- | :------------- |:-------------
+EE | 608 | <code>&nbsp;&nbsp;&nbsp;</code>Adaptive Signal Processing
+:------------- | :------------- |:-------------
+EE | 492 | <code>&nbsp;&nbsp;&nbsp;</code>B.Tech. Project Stage II
+
+<br>
+
 # 2016 *Fall*
 
 CS | 725 | <code>&nbsp;&nbsp;&nbsp;</code>Machine Learning
@@ -12,6 +24,8 @@ EE | 779 | <code>&nbsp;&nbsp;&nbsp;</code>Advanced Topics in Signal Processing
 EE | 677 | <code>&nbsp;&nbsp;&nbsp;</code>Foundations in VLSI CAD
 :------------- | :------------- |:-------------
 EE | 638 | <code>&nbsp;&nbsp;&nbsp;</code>Estimation and Identification
+:------------- | :------------- |:-------------
+EE | 491 | <code>&nbsp;&nbsp;&nbsp;</code>B.Tech. Project Stage I
 
 <br>
 
