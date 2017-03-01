@@ -7,7 +7,7 @@ title: Research Projects
 
 Advisor: [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre), Indian Institute of Technology, Bombay
 
-Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis with Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem. So far, we have worked with touchless fingerprints and a manuscript to the Pattern Recognition Letters journal is in preparation.
+Initially targeted for the FVC-ongoing competition, I am pursuing this as my undergraduate thesis with Prof. Vikram Gadre. Estimating orientation fields is very challenging in latent fingerprints. I proposed employing Mallat’s group invariant scattering approach to tackle this problem. We are combining several ideas such as iterative scaling-based sparse dictionary representation and are viewing the fingerprint enhancement as a texture disambiguation problem.
 
 _Updates_: In the stage II of this project, we have achieved an accuracy of 92.57% on the five-class fingerprint classification problem (and 96% on four-class) and a manuscript is in writing for the Pattern Recognition Letters Journal.
 
