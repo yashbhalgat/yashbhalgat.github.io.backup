@@ -7,7 +7,7 @@ title: Courses Taken
 
 # 2017 *Spring*
 
-CS | 736 | <code>&nbsp;&nbsp;&nbsp;</code>Algorithms in Medical Image Processing
+CS | 736 | <code>&nbsp;&nbsp;&nbsp;</code>Medical Image Processing
 :------------- | :------------- |:-------------
 EE | 608 | <code>&nbsp;&nbsp;&nbsp;</code>Adaptive Signal Processing
 :------------- | :------------- |:-------------
