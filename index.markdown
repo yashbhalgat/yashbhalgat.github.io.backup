@@ -3,20 +3,20 @@ layout: default
 title: Yash Bhalgat
 ---
 
-# *Education*
+# **Education**
 
 Indian Institute of Technology, Bombay
-  - B.Tech. in Electrical Engineering (with Honors) (expected in June 2017)
+  - B.Tech. in Electrical Engineering (with Honors) (expected in May 2017)
   - Minor in Computer Science (completed)
-  - *Major CGPA*: 9.44/10
+  - **Major CGPA**: 9.44/10
 
-# *Research Interests*
+# **Research Interests**
 
 I am enthusiastic about Computer Vision and focussing on applications from Pattern Recognition and Deep Learning. I am also interested in Biometrics, Parallel Computing and Astronomy.
 
 Currently, I am pursuing my Undergraduate Thesis under the guidance of [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) titled "**Latent fingerprints enhancement via Scattering Wavelets Convolution Networks**".
 
-# *Academic Awards and Achievements*
+# **Academic Awards and Achievements**
 
 * Awarded Cargill Global Scholarship 2014-15 and selected in the 10-member Indian cohort to represent at the global seminar in Minneapolis, USA.
 * Secured (All India Rank) AIR 12 in IITJEE-mains 2013 among 1.5 million students
