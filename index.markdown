@@ -4,11 +4,11 @@ title: Yash Bhalgat
 ---
 
 # **Education**
-[1] University of Michigan, Ann Arbor
+**University of Michigan, Ann Arbor**
   - Masters in Computer Science (expected 2019)
   - **Advisor**: *Prof. Jia Deng*
 
-[2] Indian Institute of Technology, Bombay
+**Indian Institute of Technology, Bombay**
   - B.Tech. in Electrical Engineering (with *Honors*) and *Minor* in Computer Science
   - **Thesis**: Scattering Wavelets Network based Latent Fingerprint Enhancement
   - **Advisor**: *Prof. Vikram Gadre*
