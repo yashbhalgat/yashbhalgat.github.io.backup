@@ -6,8 +6,7 @@ title: Yash Bhalgat
 # **Education**
 University of Michigan, Ann Arbor
   - Masters in Computer Science (expected 2019)
-  - **Advisor**: *Prof. Jia Deng*
-
+  - **Advisor**: *Prof. Jia Deng*
 
 Indian Institute of Technology, Bombay
   - B.Tech. in Electrical Engineering (with *Honors*) and *Minor* in Computer Science
@@ -31,6 +30,6 @@ Currently, I am working on the Human Pose Estimation problem with [Prof. Jia Den
 * Winner of IMATATHON - Image Processing Hackathon held by Electronics Club, IIT Bombay
 
 ## Publications
-[1] ***Yash Bhalgat***, Laurent Duval, Jean Charlety, "**CatsEyes: Categorizing seismic structures with scattering wavelet networks**", *ICASSP 2017*. (Submitted, under review)
-[2] Parmeshwar Birajadar, ***Yash Bhalgat***, Vikram Gadre, "**A Scattering Wavelet Network based approach to Fingerprint Classification**", *Pattern Recognition Letters* (Under review)
+[1] ***Yash Bhalgat***, Laurent Duval, Jean Charlety, "**CatsEyes: Categorizing seismic structures with scattering wavelet networks**", *ICASSP 2017*. (Submitted, under review) <br/>
+[2] Parmeshwar Birajadar, ***Yash Bhalgat***, Vikram Gadre, "**A Scattering Wavelet Network based approach to Fingerprint Classification**", *Pattern Recognition Letters* (Under review) <br/>
 [3] ***Yash Bhalgat***, Mandar Kulkarni, Shirish Karande, and Sachin Lodha, "Stamp processing with examplar features", 12th IAPR Workshop on Document Analysis Systems 2016 [ [arXiv](https://arxiv.org/abs/1609.05001) ]
